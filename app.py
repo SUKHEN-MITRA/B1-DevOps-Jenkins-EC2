@@ -17,4 +17,4 @@ num2 = float(sys.argv[2])
 operation = sys.argv[3]
 
 result = perform_operation(num1, num2, operation)
-print("Result is ", result)
+print("Result is -->", result)
